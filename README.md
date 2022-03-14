@@ -4,13 +4,13 @@
 Hi, welcome to our COGS 118b W22 group project, made by Emmanuel, Jamie, Jason, Matilda, Noel, and Robert. In this project, we decided to preform unsupervised learning algorithems (PCA and K-Means Clustering) on ASL Sign Language dataset from MNIST, found on Kaggle [Link: www.kaggle.com/datamunge/sign-language-mnist].
 
 ### Report:
-Please reference:
+https://docs.google.com/document/d/1jkY3MQ1QQzVXWPKTUci71Rlrk_IAVldjhjaMChVNNs0/edit?usp=sharing
 
 ### Video: 
-Please reference:
+https://www.youtube.com/watch?v=O6Ss19aXir8
 
 ### Slideshow: 
-Please reference:
+https://docs.google.com/presentation/d/15lVsWnwnJNfNdJ0Du7o6oyvydhHMiiixuceWIsKqRww/edit?usp=sharing
 
 ### Dataset:
 Please reference: sign_mnist_train.csv.zip
